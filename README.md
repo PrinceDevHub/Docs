@@ -2,6 +2,8 @@
 
 A modern and interactive draggable card component built using React, Framer Motion, Tailwind CSS, and React Icons. Each card displays downloadable file details with dynamic styling and smooth drag animations.
 
+---
+
 🚀 Features
 
 🖱️ Draggable cards with spring animations using Framer Motion
@@ -10,6 +12,8 @@ A modern and interactive draggable card component built using React, Framer Moti
 🏷️ Optional tags (e.g., "Download Now") with color-coded labels
 💨 Built with Tailwind CSS for rapid styling
 
+ ---
+ 
 🧱 Tech Stack
 
 React
@@ -17,10 +21,14 @@ Framer Motion
 Tailwind CSS
 React Icons
 
+---
+
 📄 License
 
 MIT License.
 Feel free to use, modify, and share.
+
+---
 
 🙌 Acknowledgments
 
